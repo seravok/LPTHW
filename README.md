@@ -1,2 +1,2 @@
 # LPTHW
-Exercises and Drills from Learn Python The Hard Way
+Exercises and Drills from "Learn Python The Hard Way"
