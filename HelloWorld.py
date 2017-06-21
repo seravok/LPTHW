@@ -1,2 +1,2 @@
 print "Hello world!"
-Print "world Hello!"
+Print "World Hello!"
